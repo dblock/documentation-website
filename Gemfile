@@ -40,3 +40,5 @@ gem "webrick", "~> 1.7"
 gem "typhoeus"
 gem "ruby-link-checker"
 gem "ruby-enum"
+
+gem "openapi3_parser"
